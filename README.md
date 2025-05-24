@@ -32,7 +32,7 @@ The model is not geometry-specific, but abstracted to behave similarly to a **mi
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 
 - **S-parameter sweep**: 1 to 10 GHz (201 points)
 - **Best match**: ~1.00 GHz, where return loss reaches –30 dB
@@ -43,7 +43,7 @@ The model is not geometry-specific, but abstracted to behave similarly to a **mi
 
 ---
 
-## 📊 Key Outputs
+## Key Outputs
 
 ![Example S-parameter plot](/Users/nicol/Desktop/Screenshot 2025-05-24 at 3.24.22 AM.png) 
 
