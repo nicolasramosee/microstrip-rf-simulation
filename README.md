@@ -45,8 +45,6 @@ The model is not geometry-specific, but abstracted to behave similarly to a **mi
 
 ## Key Outputs
 
-![Example S-parameter plot](/Users/nicol/Desktop/Screenshot 2025-05-24 at 3.24.22 AM.png) 
-
 - **S11 / S22**: Input/output return loss (reflection)
 - **S21 / S12**: Insertion loss and reverse transmission
 - Visual confirmation of minimal reflection at matched frequency and symmetry across ports
