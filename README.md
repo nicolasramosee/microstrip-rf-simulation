@@ -60,8 +60,6 @@ This simulation demonstrates foundational concepts in RF PCB modeling, including
 
 ## Contact
 Feel free to connect or reach out if you’d like to collaborate or ask questions!
-Nicolas Ramos
-Electrical Engineering Student – University of Miami
 - Email: nmree25@gmail.com
 - Mobile: (786) 380-1981
 - LinkedIn: www.linkedin.com/in/nicolas-ramos-503056344
