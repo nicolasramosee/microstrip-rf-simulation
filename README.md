@@ -1,7 +1,7 @@
 # Microstrip RF Interconnect Simulation Using `scikit-rf`
 
 **Author**: Nicolas Ramos  
-**Tools**: Python, `scikit-rf`, `matplotlib`, `mnumpy`, Jupyter Notebook
+**Tools**: Python, `scikit-rf`, `matplotlib`, `numpy`, Jupyter Notebook
 
 ## Overview
 
